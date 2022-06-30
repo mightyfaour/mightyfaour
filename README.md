@@ -1,4 +1,4 @@
-<h2> Hey there! 👋 I'm Omotola.</h2>
+<h2> Hey there! 👋 I'm Philip.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with React.JS
 - 💬 Ask me about Life
-- 📫 How to reach me: ...LiknedIn(https://www.linkedin.com/in/omotola-jinadu-693800205/)
-- ⚡ Fun fact: ...I love music🎸🎸🎸
+- ⚡ Fun fact: ...I love music, & travelling🎸🎸🎸
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,8 +42,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/omotola-jinadu-693800205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omotola-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:tolajinadu1123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tolajinadu1123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/philip-nwodu-001250100/" src="https://img.shields.io/badge/LinkedIn-Philip-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mails2globaltech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mails2globaltech@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:"tech4phil@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-tech4phil@outlook.com-blue?style=flat-square&logo=gm"></a>
 </p>
 
 
