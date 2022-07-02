@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/philip-nwodu-001250100/" src="https://img.shields.io/badge/LinkedIn-Philip-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mails2globaltech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mails2globaltech@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:"tech4phil@outlook.com"><img alt="Email" src="[https://img.shields.io/badge/Email-tech4phil@outlook.com-blue?style=flat-square&logo=gm](https://account.microsoft.com/profile/?refd=outlook.live.com)"></a>
+<a href="mailto:tech4phil@outlook.com"><img alt="Email" src="[https://img.shields.io/badge/Email-tech4phil@outlook.com-blue?style=flat-square&logo=gm](https://account.microsoft.com/profile/?refd=outlook.live.com)"></a>
 </p>
 
 
