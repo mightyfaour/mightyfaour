@@ -45,7 +45,7 @@
 </a>
 
 <br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
