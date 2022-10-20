@@ -43,11 +43,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<a link="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/mightyfaour/mightyfaour">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mightyfavour&theme=buefy&show_icons=true" />
+  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyfaour&theme=buefy&layout=compact" />
 </a>
 
@@ -63,6 +62,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif
+
 
 
