@@ -1,10 +1,13 @@
 <h2> Hey there! 👋 I'm Philip Nwodu.</h2>
+<h3>I am a fullstack developer who is a </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React.JS
+- - 🌱 I’ve learned HTML
+- - 🌱 I’ve learned CSS
+- 🌱 I’ve learned React.JS
 - 🌱 I'm learned JAVA
 -  🌱 I'm learned Springboot
 -   🌱 I'm learned python
@@ -56,5 +59,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif
 
 
