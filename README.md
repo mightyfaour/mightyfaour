@@ -54,7 +54,7 @@
 <a href="mailto:tech4phil@outlook.com"><img alt="Email" src="[https://img.shields.io/badge/Email-tech4phil@outlook.com-blue?style=flat-square&logo=gm](https://account.microsoft.com/profile/?refd=outlook.live.com)"></a>
 </p>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mightyfaour&theme=onedark_duo&background=085707&border=4F73DD&fire=16DDB2)](https://git.io/streak-stats)
 
 
 
