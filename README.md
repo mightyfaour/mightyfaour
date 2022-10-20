@@ -45,7 +45,7 @@
 </a>
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -55,6 +55,6 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mightyfaour&theme=onedark_duo&background=085707&border=4F73DD&fire=16DDB2)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
