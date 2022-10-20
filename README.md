@@ -44,7 +44,7 @@
 
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mightyfaour)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" href="https://github-readme-stats.vercel.app/api?username=mightyfaour"/>
 <a href="https://github.com/mightyfaour/mightyfaour">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mightyfavour&theme=buefy&show_icons=true" />
   <br/>
