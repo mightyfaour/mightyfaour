@@ -32,9 +32,9 @@
 
 <br/>
 
-<a href="https://github.com/tolagenius1123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolagenius1123&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolagenius1123&theme=buefy&layout=compact" />
+<a href="https://github.com/mightyfaour/mightyfaour">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyfaour&theme=buefy&layout=compact" />
 </a>
 
 <br/>
