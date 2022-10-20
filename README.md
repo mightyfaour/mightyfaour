@@ -1,5 +1,7 @@
 <h2> Hey there! 👋 I'm Philip Nwodu.</h2>
-<h3>I am a fullstack developer who is a </h3>
+<h3>I am a software developer who is enthisiast about tech </h3>
+<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif">
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
