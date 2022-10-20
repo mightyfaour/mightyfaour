@@ -43,8 +43,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mightyfaour)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" href="https://github-readme-stats.vercel.app/api?username=mightyfaour"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <a href="https://github.com/mightyfaour/mightyfaour">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mightyfavour&theme=buefy&show_icons=true" />
   <br/>
