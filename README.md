@@ -5,6 +5,11 @@
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning React.JS
+- 🌱 I'm learned JAVA
+-  🌱 I'm learned Springboot
+-   🌱 I'm learned python
+-    🌱 I'm learned django
+-     🌱 I'm learned Kotlin
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with React.JS
 - 💬 Ask me about Life
@@ -24,6 +29,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+    
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -43,7 +50,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/philip-nwodu-001250100/" src="https://img.shields.io/badge/LinkedIn-Philip-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mails2globaltech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mails2globaltech@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mails2philipnwodu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mails2philipnwodu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="mailto:tech4phil@outlook.com"><img alt="Email" src="[https://img.shields.io/badge/Email-tech4phil@outlook.com-blue?style=flat-square&logo=gm](https://account.microsoft.com/profile/?refd=outlook.live.com)"></a>
 </p>
 
