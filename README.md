@@ -22,13 +22,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mightyfaour&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="left"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mightyfaour&label=Profile%20views&color=0e75b6&style=flat"
+    alt="philip" /> 
 </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="philip" /></p>
 
 
 - 🌱 I’m currently learning Kotlin Development and other programming languages
@@ -136,6 +136,12 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [mightyfaour](https://github.com/mightyfaour)
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <div align="right">
 Made with <img width="20px" height="20px"src="https://media3.giphy.com/media/xUA7aWi4gtOdAaX9q8/giphy.gif?cid=ecf05e47rw0mvwmpaei2li4cy6f8bv8xdwlvfvyx0fu4p41m&rid=giphy.gif&ct=g"
