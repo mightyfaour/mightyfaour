@@ -37,6 +37,7 @@
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’ve learned HTML
 - 🌱 I’ve learned CSS
+- - 🌱 I’ve learned JavaScript
 - 🌱 I’ve learned React.JS
 - 🌱 I've learned JAVA
 - 🌱 I've learned Springboot
