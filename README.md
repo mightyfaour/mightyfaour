@@ -14,7 +14,7 @@
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-<p >Student from  Semicolon Africa, Lagos, Nigeria🌟.</p>
+<p >A Graduate of  Semicolon Africa, Lagos, Nigeria🌟.</p>
    
     
  <div align=center>
@@ -33,7 +33,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="philip" /></p>
 
 
-- 🌱 I’m currently learning Kotlin Development and other programming languages
+- 🌱 I’m currently learning C# Development and other programming languages
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’ve learned HTML
 - 🌱 I’ve learned CSS
